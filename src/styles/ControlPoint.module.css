@@ -1,0 +1,8 @@
+.point {
+  background-color: white;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  position: absolute;
+}
